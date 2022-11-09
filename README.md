@@ -24,12 +24,6 @@ I am Kriti Sharma. I am a Software Engineer with 3.5+ years of experience in web
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 
-### :chart_with_upwards_trend: GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kritisharma23&show_icons=true&locale=en" alt="kritisharma23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritisharma23&" alt="kritisharma23" /></p>
-
 ### :link: Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kritisharma23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritisharma23" height="30" width="40" /></a>
